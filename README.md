@@ -17,8 +17,6 @@ The Password Strength Evaluator:
 - Displays a password strength meter in a user-friendly GUI.
 - Includes an exit button for easy application closure.
 
-## Main Parts of the Code
-
 ### 1. Import Libraries
 
 ```python
