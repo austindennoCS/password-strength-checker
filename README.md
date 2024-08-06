@@ -5,7 +5,7 @@
 
 ## Overview
 
-This Python-based password strength evaluator uses `tkinter` to provide a graphical user interface (GUI). The application evaluates password strength based on criteria such as length, character diversity, and common patterns, offering real-time feedback and a visual strength meter to help users create secure passwords.
+This Python-based password strength evaluator uses `tkinter` to provide a graphical user interface (GUI). The application evaluates password strength based on criteria such as length, character diversity, and common patterns, offering real-time feedback and a visual strength meter to help users learn more about secure passwords.
 
 ## Summary
 
